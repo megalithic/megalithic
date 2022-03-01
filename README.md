@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I like to make stuff; both digital and physical.
+
+You'll _primarily_ find my dotfiles, website, and other little tools I've built or forked (mostly around neovim, tmux, zsh, kitty, and elixir). :thumb
+
 <!--
 **megalithic/megalithic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
